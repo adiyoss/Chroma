@@ -1,0 +1,6 @@
+.idea
+Chroma.iml
+out/
+src/com/chroma/tests/
+src/com/chroma/data/MIDI_FB_ellip_pitch_60_96_22050_Q25.a.txt
+src/com/chroma/data/MIDI_FB_ellip_pitch_60_96_22050_Q25.b.txt
