@@ -2,8 +2,8 @@
 Chroma.iml
 out/
 src/com/chroma/tests/
-src/com/chroma/data/MIDI_FB_ellip_pitch_60_96_22050_Q25.a.txt
-src/com/chroma/data/MIDI_FB_ellip_pitch_60_96_22050_Q25.b.txt
+data/MIDI_FB_ellip_pitch_60_96_22050_Q25.a.txt
+data/MIDI_FB_ellip_pitch_60_96_22050_Q25.b.txt
 .DS_Store
 data/piano.wav
 data/Am_new.wav
