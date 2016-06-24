@@ -10,7 +10,7 @@ After loading the .wav file using the `Wave` class, we can use the `Chroma` clas
 
 The `signal2Chroma` function gets as input a wave file and returns a 2D matrix which represents the chroma.
 
-## Usage Example
+### Usage Example
 
 ```java
     String filename = "data/piano.wav"; // THE PATH TO THE WAV FILE
