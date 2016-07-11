@@ -2,7 +2,8 @@
 
 Copyright (C) Adiyoss (2016)
 
-A pitch and chroma implementation in Java
+A pitch and chroma implementation in written Java
+
 The implementation is based on http://resources.mpi-inf.mpg.de/MIR/chromatoolbox/
 
 # Usage
@@ -23,7 +24,9 @@ The `signal2Chroma` function gets as input a wave file and returns a 2D matrix w
 ```
 
 # Visualize
-In order to visualize the chroma, you can use the Python script inside the python folder
+In order to visualize the chroma, you can use the python script inside the python folder.
+
+cd into the python folder and type:
 
 ```bash
     python plot_matrix.py --chroma 'data/chroma.txt'
