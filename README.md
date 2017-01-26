@@ -1,7 +1,5 @@
 # Chroma 
 
-Copyright (C) Adiyoss (2016)
-
 A pitch and chroma implementation in written Java
 
 The implementation is based on http://resources.mpi-inf.mpg.de/MIR/chromatoolbox/
