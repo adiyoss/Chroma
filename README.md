@@ -30,4 +30,4 @@ cd into the python folder and type:
     python plot_matrix.py --chroma 'data/chroma.txt'
 ```
 
-[embed](img/chroma.pdf)[/embed]
+[embed]img/chroma.pdf[/embed]
