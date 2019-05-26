@@ -18,7 +18,7 @@ The `signal2Chroma` function gets as input a wave file and returns a 2D matrix w
     double [][] chroma;
     chroma = chromaGenerator.signal2Chroma(wave.getNormalizedAmplitudes());
     DataAccess dal = new DataAccess();
-    dal.writeMatrixToFile(chroma,"data/chroma.txt");
+    dal.writeMatrixToFile(chroma,"src/test/resources/data/chroma.txt");
 ```
 
 # Visualize
@@ -27,7 +27,7 @@ In order to visualize the chroma, you can use the python script inside the pytho
 cd into the python folder and type:
 
 ```bash
-    python plot_matrix.py --chroma 'data/chroma.txt'
+    python plot_matrix.py --chroma 'src/test/resources/data/chroma.txt'
 ```
 
-![chroma](img/chroma.png)
+![chroma](src/test/resources/img/chroma.png)
